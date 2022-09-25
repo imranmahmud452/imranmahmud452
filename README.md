@@ -19,9 +19,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/imranmahmud452" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imranmahmud452" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/imran-mahmud-445476244/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/imran-mahmud-445476244/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/mdimran.tahir.1848816" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/mdimran.tahir.1848816" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/sheikh_imran09/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/sheikh_imran09/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/in/imran-mahmud-445476244/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/imran-mahmud-445476244/" height="30" width="40" /></a>
+<a href="https://fb.com/mdimran.tahir.1848816" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mdimran.tahir.1848816" height="30" width="40" /></a>
+<a href="https://instagram.com/sheikh_imran09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sheikh_imran09" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
